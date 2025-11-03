@@ -1,0 +1,4 @@
+<view class="wrap">
+  <button open-type="contact" class="btn">联系微信客服</button>
+  <button bindtap="openKf" class="btn ghost">企业微信客服（可选）</button>
+</view>

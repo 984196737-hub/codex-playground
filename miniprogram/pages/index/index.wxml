@@ -1,0 +1,23 @@
+<view class="wrap">
+  <view class="hero">
+    <image class="kv" src="https://example.com/kv.jpg" mode="widthFix"/>
+    <view class="title">参芝阿胶玉灵膏｜日常滋养</view>
+    <view class="subtitle">温和易坚持 · 7天打卡计划</view>
+  </view>
+
+  <view class="card">
+    <view class="card-hd">精选内容</view>
+    <navigator url="/pages/article/index">去看看</navigator>
+  </view>
+
+  <view class="card">
+    <view class="card-hd">联系客服</view>
+    <button open-type="contact" class="btn">微信客服</button>
+    <navigator url="/pages/contact/index" class="btn ghost">更多方式</navigator>
+  </view>
+
+  <view class="card">
+    <view class="card-hd">订阅提醒</view>
+    <navigator url="/pages/subscribe/index" class="btn">开启打卡提醒</navigator>
+  </view>
+</view>

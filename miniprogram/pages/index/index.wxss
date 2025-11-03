@@ -1,0 +1,9 @@
+.wrap{padding:16rpx}
+.hero{padding:24rpx 16rpx}
+.kv{width:100%;border-radius:24rpx}
+.title{font-size:36rpx;font-weight:600;margin-top:12rpx}
+.subtitle{color:#777;margin-top:6rpx}
+.card{background:#fff;border-radius:20rpx;padding:20rpx;margin-top:20rpx;box-shadow:0 6rpx 20rpx rgba(0,0,0,.05)}
+.card-hd{font-weight:600;margin-bottom:12rpx}
+.btn{margin-top:8rpx;padding:18rpx;border-radius:16rpx;background:#111;color:#fff}
+.btn.ghost{background:#f6f6f6;color:#111}

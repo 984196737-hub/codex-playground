@@ -1,0 +1,4 @@
+<view class="wrap">
+  <view class="tip">开启订阅，用于打卡提醒、订单通知等（用户授权后才能发送）。</view>
+  <button bindtap="sub" class="btn">订阅提醒</button>
+</view>
