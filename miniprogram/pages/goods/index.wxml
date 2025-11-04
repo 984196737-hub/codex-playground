@@ -1,0 +1,10 @@
+<view class="wrap">
+  <block wx:for="{{goods}}" wx:key="id">
+    <view class="card">
+      <view class="title">{{item.name}}</view>
+      <view class="meta">日常滋养类食品 · 净含量：{{item.net}}</view>
+      <view class="desc">{{item.brief}}</view>
+      <button class="btn" open-type="contact">联系客服了解</button>
+    </view>
+  </block>
+</view>

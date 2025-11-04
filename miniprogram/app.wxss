@@ -1,0 +1,8 @@
+page{background:#f7f7f7;font-family:-apple-system,BlinkMacSystemFont,Helvetica,Arial}
+.wrap{padding:16rpx}
+.card{background:#fff;border-radius:20rpx;padding:20rpx;margin-top:20rpx;box-shadow:0 6rpx 20rpx rgba(0,0,0,.05)}
+.card .title{font-weight:600;font-size:32rpx}
+.card .meta{color:#999;margin-top:6rpx}
+.card .desc{color:#555;margin-top:8rpx;line-height:1.6}
+.btn{margin-top:12rpx;padding:18rpx;border-radius:16rpx;background:#111;color:#fff}
+.btn.ghost{background:#f6f6f6;color:#111}

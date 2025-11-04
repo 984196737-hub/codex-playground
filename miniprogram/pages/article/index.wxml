@@ -1,0 +1,9 @@
+<view class="wrap">
+  <block wx:for="{{list}}" wx:key="id">
+    <view class="card">
+      <view class="title">{{item.title}}</view>
+      <view class="meta">{{item.tag}} · 约{{item.readTime}}分钟</view>
+      <view class="desc">{{item.desc}}</view>
+    </view>
+  </block>
+</view>
